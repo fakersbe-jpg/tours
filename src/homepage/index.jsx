@@ -1,0 +1,10 @@
+export { default as Navbar } from './components/Navbar';
+export { default as Hero } from './components/Hero';
+export { default as TravelPlaces } from './components/TravelPlaces';
+export { default as Services } from './components/Services';
+export { default as PopularDestinations } from './components/PopularDestinations';
+export { default as WhyChooseUs } from './components/WhyChooseUs';
+export { default as Testimonials } from './components/Testimonials';
+export { default as FAQ } from './components/FAQ';
+export { default as Contact } from './components/Contact';
+export { default as Footer } from './components/Footer';
